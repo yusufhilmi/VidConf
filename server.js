@@ -53,6 +53,10 @@ var users = [{
     pass: "pass",
     role: OpenViduRole.PUBLISHER
 }, {
+    user: "publisher3",
+    pass: "pass",
+    role: OpenViduRole.PUBLISHER
+}, {
     user: "subscriber",
     pass: "pass",
     role: OpenViduRole.SUBSCRIBER
